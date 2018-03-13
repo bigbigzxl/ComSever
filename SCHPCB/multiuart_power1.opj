@@ -1,0 +1,47 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\multiuart_power1.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\multiuart_power1.dsn")
+      (Path "Design Resources" ".\multiuart_power1.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\multiuart_power1.dsn" "SCHEMATIC1"
+         "01 Change list"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 0 200 0 443"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 75 1659 75 556")
+        (Scroll "-74 0")
+        (Zoom "84")
+        (Occurrence "/"))
+      (Path "D:\1_串口项目\农凯政串口电源板\PCB农凯政\MULTIUART_POWER1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "02 cpu"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 100 1684 100 581")
+        (Scroll "-297 0")
+        (Zoom "97")
+        (Occurrence "/"))
+      (Path "D:\1_串口项目\农凯政串口电源板\PCB农凯政\MULTIUART_POWER1.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "01 Change list")))
+  (MPSSessionName "Administrator"))
